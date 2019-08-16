@@ -1,0 +1,32 @@
+# package: binutils-cgc-i386: (installed: True) version: 2.24-3739-cqe
+# package: cgc-release-documentation: (installed: True) version: 7079-cqe
+# package: cgc-sample-challenges: (installed: True) version: 7085-cqe
+# package: cgc-service-launcher: (installed: True) version: 4351-cqe
+# package: cgc2elf: (installed: True) version: 3739-cqe
+# package: cgcef-verify: (installed: True) version: 3739-cqe
+# package: clang-cgc: (installed: True) version: 3.4-3841-cqe
+# package: gdb-cgc: (installed: True) version: 7.9-4619-cqe
+# package: libcgc: (installed: True) version: 3739-cqe
+# package: libcgcdwarf: (installed: True) version: 3739-cqe
+# package: libcgcef0: (installed: True) version: 3739-cqe
+# package: linux-headers-3.13.2-cgc: (installed: True) version: 6087-cqe
+# package: linux-image-3.13.2-cgc: (installed: True) version: 6087-cqe
+# package: linux-source-3.13.2-cgc: (installed: True) version: 6087
+# package: magic-cgc: (installed: True) version: 3739-cqe
+# package: readcgcef: (installed: True) version: 3740-cqe
+# package: strace-cgc: (installed: True) version: 4.5.20-4430-cqe
+# service - pov/POV_00000.xml
+# connected to ('127.71.159.166', 20022)
+ok 1 - match: string
+ok 2 - match: string
+ok 3 - match: string
+ok 4 - read length
+ok 5 - match: string
+ok 6 - write: sent 147 bytes
+ok 7 - read length
+# tests passed: 7
+# tests failed: 0
+# total tests passed: 7
+# total tests failed: 0
+# polls passed: 1
+# polls failed: 0
